@@ -1,0 +1,17 @@
+# Node
+node_modules/
+
+# Python
+env/
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Logs
+npm-debug.log
+
+# IDE
+.vscode/
