@@ -1,4 +1,4 @@
-# 🧠 Official AASF Project
+# 🧠 ZEDOVA
 
 *Empowering Innovation, Accelerating Impact, Unleashing Potential*
 
